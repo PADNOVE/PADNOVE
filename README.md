@@ -78,7 +78,7 @@ If you're interested in working with us, feel free to connect.
 ## 📫 Contact
 
 🌐 Website: www.padnove.com
-💼 LinkedIn: linkedin.com/company/padnove
+💼 LinkedIn: https://linkedin.com/company/padnove
 💼 Email: contact@padnove.com
 
 ---
